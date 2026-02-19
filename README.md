@@ -1,4 +1,4 @@
-# 🛒 Grocery Web App
+# 🛒 Shop Smart App
 
 A full-stack online grocery shopping platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
@@ -180,9 +180,15 @@ Database: MongoDB Atlas
 
 ---
 
-## 📧 Contact
+Team Details:
 
-Guna Sundar  
+Team ID: LTVIP2026TMIDS81333
+Team Leader: Guna Sundar Chepuri
+Team member: Shaik Abdul Gafoor
+Team member: Barath Vikraman Govindarao Balu
+Team member: Govindu Anugonda
+Team member: Sibbala Mahesh
+## 📧 Contact
 Email: gunasundar8016@gmail.com  
 
 ---
