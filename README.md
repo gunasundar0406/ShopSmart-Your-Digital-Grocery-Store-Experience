@@ -180,16 +180,27 @@ Database: MongoDB Atlas
 
 ---
 
-Team Details:
+---
 
-Team ID: LTVIP2026TMIDS81333
-Team Leader: Guna Sundar Chepuri
-Team member: Shaik Abdul Gafoor
-Team member: Barath Vikraman Govindarao Balu
-Team member: Govindu Anugonda
-Team member: Sibbala Mahesh
+## Team Details:
+
+**Team ID:** LTVIP2026TMIDS81333  
+
+**Team Leader:**  
+Guna Sundar Chepuri  
+
+**Team Members:**  
+Shaik Abdul Gafoor  
+Barath Vikraman Govindarao Balu  
+Govindu Anugonda  
+Sibbala Mahesh  
+
+---
+
 ## 📧 Contact
-Email: gunasundar8016@gmail.com  
+
+**Email:**  
+gunasundar8016@gmail.com  
 
 ---
 
